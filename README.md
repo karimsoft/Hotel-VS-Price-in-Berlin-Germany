@@ -1,4 +1,4 @@
-# Write-A-Data-Science-Blog-Post
+# Hotel VS Price in Berlin ,Germany
 
 # Information and metrics for hotels in Berlin ,Germany.
 
