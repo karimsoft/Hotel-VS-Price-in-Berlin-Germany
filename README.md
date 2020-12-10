@@ -43,3 +43,5 @@ Question 4:- when minimum nights is small then the price increases?
 
 -Not effect when the minimum nights is small the price not decreases.
 
+## publish
+https://karimsoft.medium.com/karimsoft-hotel-vs-price-in-berlin-germany-91f7630bf082
