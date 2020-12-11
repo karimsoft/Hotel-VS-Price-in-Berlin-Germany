@@ -5,7 +5,7 @@
 ## libraries used in the analysis.
 - numpy as np
 - pandas as pd
-- matplotlib.pyplot as plt
+- matplotlib.pyplot 
 - seaborn
 - sklearn.linear_model import LinearRegression
 - sklearn.model_selection import train_test_split
