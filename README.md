@@ -3,14 +3,13 @@
 # Information and metrics for hotels in Berlin ,Germany.
 
 ## libraries used in the analysis.
-# numpy as np
-# pandas as pd
-# matplotlib.pyplot as plt
-# seaborn
-
-# sklearn.linear_model import LinearRegression
-# sklearn.model_selection import train_test_split
-# sklearn.metrics import r2_score, mean_squared_error
+- numpy as np
+- pandas as pd
+- matplotlib.pyplot as plt
+- seaborn
+- sklearn.linear_model import LinearRegression
+- sklearn.model_selection import train_test_split
+- sklearn.metrics import r2_score, mean_squared_error
 
 ## Questions
 Question 1:- If more we go north, the lower price?
