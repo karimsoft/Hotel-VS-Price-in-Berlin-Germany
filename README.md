@@ -2,18 +2,15 @@
 
 # Information and metrics for hotels in Berlin ,Germany.
 
-## Info File
+## libraries used in the analysis.
+# numpy as np
+# pandas as pd
+# matplotlib.pyplot as plt
+# seaborn
 
-Customer satisfaction will be examined at Blaine,Germany Hotels and what are the interesting items at the room price.
-
-Data From http://insideairbnb.com/get-the-data.html
-
-File Name listings.csv rename to Berlin_Germany_Listings.csv
-
-Date Compiled 13-10-2020
-
-## Fields
-id , name , host id , host name, neighbourhood group,neighbourhoodm,latitude,longitude, room type,price,minimum nights,number of reviews last review, reviews per month, calculated host listings count, availability 365
+# sklearn.linear_model import LinearRegression
+# sklearn.model_selection import train_test_split
+# sklearn.metrics import r2_score, mean_squared_error
 
 ## Questions
 Question 1:- If more we go north, the lower price?
