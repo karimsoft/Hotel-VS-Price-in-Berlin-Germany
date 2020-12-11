@@ -1,4 +1,4 @@
-# Hotel VS Price in Berlin ,Germany
+# How is Hotel's price in Berlin?
 
 # Information and metrics for hotels in Berlin ,Germany.
 
